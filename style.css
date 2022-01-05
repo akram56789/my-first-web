@@ -4,7 +4,7 @@ h1{
 .section1{
     padding-left: 50px;
 }
-.mission{
+.mission22{
     color: rgb(196, 40, 40);
 }
 .explor{
@@ -39,4 +39,19 @@ h1{
 }
 .number2022{
     color: chartreuse;
+ }
+.robot{
+    width: 40%;
+}
+.box{
+    width: 20%;
+    background-color: coral;
+    margin-left: 100px;
+
+    
+    padding-left: 30px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    
 }

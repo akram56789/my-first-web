@@ -1,0 +1,42 @@
+h1{
+    font-size: 50px;
+}
+.section1{
+    padding-left: 50px;
+}
+.mission{
+    color: rgb(196, 40, 40);
+}
+.explor{
+      text-decoration: none;
+     background-image: linear-gradient(brown, gray);
+     font-weight: 700;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.border{
+    border-left: 5px solid brown;
+    border-radius: 5px;
+     
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%
+}
+.half-width img{
+    width: 50%;
+   
+}
+.flaxible{
+    display: flex;
+    margin-bottom: 100px;
+}
+.mission-2022{
+    font-size: 40px;
+    text-align: center;
+
+}
+.number2022{
+    color: chartreuse;
+}

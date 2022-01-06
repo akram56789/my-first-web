@@ -41,17 +41,87 @@ h1{
     color: chartreuse;
  }
 .robot{
-    width: 40%;
+    width: 30%;
+     
 }
 .box{
     width: 20%;
-    background-color: coral;
-    margin-left: 100px;
+    background-color: rgba(255, 127, 80, 0.493);
+    margin-left: 200px;
+    height: ;
+    padding-left: 5px;
 
     
-    padding-left: 30px;
-    padding-right: 100px;
-    padding-bottom: 10px;
+     
     border-radius: 20px;
     
 }
+.vission{
+    border-radius: 20px;
+    width: 20%;
+    background-color: rgba(95, 158, 160, 0.603);
+    margin-left: 20px;
+    padding: 5px;
+    height: 300px;
+     
+
+}
+.robot2{
+    width: 30%;
+}
+.section2{
+    display: flex;
+}
+.goal{
+    border-radius: 20px;
+    width: 20%;
+    background-color: rgba(38, 38, 224, 0.411);
+    margin-left: 20px;
+    padding: 5px;
+}
+.robot3{
+    width: 35%;
+}
+.project img{
+    width: 60%;
+     
+    padding-top: 100px; 
+    padding-left: 200px;
+
+}
+.read{
+     text-decoration: none;
+     background-image: linear-gradient(brown, gray);
+     font-weight: 700;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+      
+}
+.section3{
+    display: flex;
+    padding-top: 40px;
+}
+.develop{
+ 
+   padding-top: 100px;
+    margin-right: 100px;
+    
+
+     
+     
+     
+ 
+}
+.project{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: center;
+}
+ 
+     
+    
+    
+
+ 
